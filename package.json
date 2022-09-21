@@ -1,5 +1,5 @@
 {
-  "name": "swift01",
+  "name": "trance",
   "theme": "syntax",
   "version": "0.0.0",
   "description": "Test Payday Loans",
@@ -8,7 +8,7 @@
     "cash advance",
     "cash loans"
   ],
-  "repository": "https://github.com/farallels/swift01",
+  "repository": "https://github.com/farallels/trance",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
