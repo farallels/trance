@@ -1,0 +1,16 @@
+{
+  "name": "swift01",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Test Payday Loans",
+  "keywords": [
+    "payday",
+    "cash advance",
+    "cash loans"
+  ],
+  "repository": "https://github.com/farallels/swift01",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
